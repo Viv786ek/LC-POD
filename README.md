@@ -1,2 +1,2 @@
 # LC-POD
-LeetCode- problem of the day....... amazing series of code
+LeetCode- problem of the day....... all the amazing series of code
